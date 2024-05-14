@@ -1,0 +1,17 @@
+omegaconf
+einops
+diffusers
+transformers
+torch
+accelerate
+basicsr
+facexlib
+gfpgan
+realesrgan
+numpy
+opencv-python
+Pillow
+torch
+torchvision
+tqdm
+huggingface_hub==0.20.2
